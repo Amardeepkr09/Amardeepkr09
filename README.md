@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amardeepkr09&label=Profile%20views&color=0e75b6&style=flat" alt="amardeepkr09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amardeepkr09" target="blank"><img src="https://img.shields.io/twitter/follow/amardeepkr09?logo=twitter&style=for-the-badge" alt="amardeepkr09" /></a> </p>
